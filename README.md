@@ -6,3 +6,6 @@ For Instructions, how-tos, and links, check the [wiki](https://github.com/dcumac
 If you don't have git installed, [do that first](http://git-scm.com/book/en/Getting-Started-Installing-Git)      
      
 Then do `git clone https://github.com/dcumachinelearning/ml-group.git`
+
+### TODO
+- add git tutorial

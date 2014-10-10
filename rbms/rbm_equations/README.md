@@ -6,7 +6,7 @@
 (4) work through the template
 (5) add, and commit 1 or more times while you are working:
   - `git add <your_name>.rbm_equations.ipynb`
-  - `git commit -m 'your message'
+  - `git commit -m 'your message'`
   - `git push`
 
 (6) at the end of the session, submit a pull request to the main repo with the work that you did
